@@ -1,0 +1,1 @@
+# QA-Portfolio-Dmytro-Kushnyr
