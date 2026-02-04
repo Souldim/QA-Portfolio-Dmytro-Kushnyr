@@ -55,5 +55,7 @@ QA templates, testing notes, and structured bug reports.
 
 ##  Author
 Dmytro Kushnyr  
-Junior QA Engineer (Manual)  
+Manual QA Engineer 
+[LinkedIn Profile] https://www.linkedin.com/in/dmytro-kushnyr-3534353aa/
+Email: dmytrokushnyr@gmail.com
 Cleveland, Ohio
